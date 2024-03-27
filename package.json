@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/wuyuehan2024/user_authentication_systems#readme",
   "dependencies": {
-    "simple_note_apps": "1.0.2"
+    "simple_note_apps": "1.0.3"
   }
 }
