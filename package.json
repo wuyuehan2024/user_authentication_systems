@@ -1,6 +1,6 @@
 {
   "name": "user_authentication_systems",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "type": "module",
   "main": "user_authentication_systems.js",
